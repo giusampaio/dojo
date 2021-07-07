@@ -2,7 +2,6 @@ use std::io;
 use rand::Rng;
 use std::cmp::Ordering;
 
-
 fn main() {
     println!("Hi dude! Let's play a game! Guess the number.");
     
